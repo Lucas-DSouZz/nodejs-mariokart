@@ -82,7 +82,7 @@ Este projeto apresenta uma simulação de corrida onde o desempenho dos competid
 
 <b>Jogadores:</b>
 
-<label for="jogadores-item">O Computador deve receber dois personagens para disputar a corrida em um objeto cada</label>
+<label for="jogadores-item">O Computador deve receber dois personagens para disputar a corrida em um objeto cada, onde cada jogador escolhe seu próprio personagem.</label>
 
 <b>Pistas:</b>
 
